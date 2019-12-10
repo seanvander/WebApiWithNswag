@@ -4,4 +4,4 @@ This example shows how NSwag support can easily be added to a Web API project, a
 
 This was developed using Visual Studio Code.
 
-Please note that the Visual Studio Code C# extension may not honour the settings in launchSettings.json. If not, you need to browse to https://localhost:5001/swagger to see the swagger UI.
+Please note that the Visual Studio Code C# extension may not honour the settings in launchSettings.json. If not, you need to browse to https://localhost:5001/swagger to see the swagger UI. The ReDoc UI is also available at https://localhost:5001/redoc.
